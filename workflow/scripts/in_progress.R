@@ -370,6 +370,39 @@ pp_check(mod)
 
 conditional_effects(mod, "ssc_sc:group")
 
+summary(mod)
+# Multilevel Hyperparameters:
+#   ~user_id (Number of levels: 133) 
+#                      Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+# sd(Intercept)             0.79      0.05     0.70     0.90 1.01      282      638
+# sd(ssc_sc)                0.32      0.03     0.27     0.37 1.00     1097     1638
+# cor(Intercept,ssc_sc)     0.25      0.09     0.07     0.43 1.00      867     1571
+# 
+# ~user_id:by_subj_day (Number of levels: 901) 
+#                      Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+# sd(Intercept)             0.19      0.01     0.17     0.22 1.00      592     1510
+# sd(ssc_sc)                0.18      0.02     0.14     0.21 1.01      557      903
+# cor(Intercept,ssc_sc)     0.05      0.11    -0.16     0.26 1.02      470      922
+# 
+# Regression Coefficients:
+#                     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+# Intercept               0.08      0.08    -0.08     0.24 1.03      199      328
+# ssc_sc                 -0.08      0.04    -0.15    -0.00 1.01      514     1416
+# groupcontrol           -0.33      0.15    -0.60    -0.04 1.03      196      429
+# ssc_sc:groupcontrol    -0.20      0.07    -0.34    -0.08 1.01      659     1513
+# 
+# Further Distributional Parameters:
+#       Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+# sigma     0.28      0.01     0.26     0.30 1.00      918     1894
+# nu        2.52      0.19     2.17     2.90 1.00     1351     2457
+# 
+# Draws were sampled using sample(hmc). For each parameter, Bulk_ESS
+# and Tail_ESS are effective sample size measures, and Rhat is the potential
+# scale reduction factor on split chains (at convergence, Rhat = 1).
+
+performance::r2_bayes(mod)
+# Conditional R2: 0.793 (95% CI [0.786, 0.799])
+# Marginal R2: 0.048 (95% CI [0.015, 0.094])
 
 
 
