@@ -1,0 +1,35 @@
+variable,label,class,n_obs,n_missing,pct_missing,n_unique,min,max,example_values
+group,Group (control vs binge_eating),factor,2580,0,0,1,NA,NA,control
+user_id,Participant ID,character,2580,0,0,89,NA,NA,FR_RI_1991_09_01_415_M; al_ch_1995_01_09_240_m; al_de_1999_04_11_258_m; al_mo_1995_09_11_060_m; an_ba_2002_01_29_890_m
+by_subj_day,Day within subject (1-7),integer,2580,0,0,7,1,7,1; 2; 3; 4; 5
+beep,Beep number within day (1-5),integer,2580,0,0,5,1,5,1; 2; 3; 4; 5
+time_band,Time band label,factor,2580,0,0,5,NA,NA,t1_morning; t2_midmorning; t3_afternoon; t4_evening; t5_late_evening
+datetime,Response datetime,"POSIXct, POSIXt",2580,0,0,2578,NA,NA,2025-08-12 10:16:12; 2025-08-12 12:25:51; 2025-08-12 18:08:35; 2025-08-12 21:34:48; 2025-08-13 10:50:13
+SC_1,Self-compassion item 1 (positive),integer,2580,0,0,5,1,5,3; 4; 5; 2; 1
+SC_2,Self-compassion item 2 (negative),integer,2580,0,0,5,1,5,4; 2; 1; 3; 5
+SC_3,Self-compassion item 3 (positive),integer,2580,0,0,5,1,5,4; 5; 3; 2; 1
+SC_4,Self-compassion item 4 (negative),integer,2580,0,0,5,1,5,2; 1; 4; 3; 5
+SC_5,Self-compassion item 5 (positive),integer,2580,0,0,5,1,5,5; 4; 3; 2; 1
+SC_6,Self-compassion item 6 (negative),integer,2580,0,0,5,1,5,2; 1; 3; 4; 5
+SC_7,"Self-compassion item 7 (negative, new)",integer,2580,0,0,5,1,5,2; 1; 4; 3; 5
+SC_8,"Self-compassion item 8 (positive, new)",integer,2580,0,0,5,1,5,2; 4; 1; 5; 3
+SC_2R,SC item 2 reverse coded (6 - SC_2),integer,2580,0,0,5,1,5,2; 4; 5; 3; 1
+SC_4R,SC item 4 reverse coded (6 - SC_4),integer,2580,0,0,5,1,5,4; 5; 2; 3; 1
+SC_6R,SC item 6 reverse coded (6 - SC_6),integer,2580,0,0,5,1,5,4; 5; 3; 2; 1
+SC_7R,SC item 7 reverse coded (6 - SC_7),integer,2580,0,0,5,1,5,4; 5; 2; 3; 1
+WBIS_1,Weight Bias Internalization item 1 (1-7),integer,2580,0,0,7,1,7,1; 2; 3; 5; 4
+WBIS_2,Weight Bias Internalization item 2 (1-7),integer,2580,0,0,7,1,7,1; 2; 3; 4; 5
+WBIS_3,Weight Bias Internalization item 3 (1-7),integer,2580,0,0,7,1,7,1; 2; 3; 4; 5
+affect_Frustrat_Ang,Affect: Frustrated/Angry (1-4),integer,2580,0,0,4,1,4,1; 2; 3; 4
+affect_Sad_Depressed,Affect: Sad/Depressed (1-4),integer,2580,0,0,4,1,4,1; 2; 3; 4
+affect_stress,Affect: Stressed (1-4),integer,2580,0,0,4,1,4,1; 2; 3; 4
+Did_you_eat,"Did you eat in past 2 hours? (0=No, 1=Yes)",integer,2580,0,0,2,0,1,0; 1
+BES_1,Binge Eating Scale item 1 (1-5),integer,2580,1324,51.32,5,1,5,1; 3; 2; 4; 5
+BES_2,Binge Eating Scale item 2 (1-5),integer,2580,1324,51.32,5,1,5,1; 2; 3; 4; 5
+BES_3,Binge Eating Scale item 3 (1-5),integer,2580,1324,51.32,4,1,4,1; 2; 3; 4
+BES_4,Binge Eating Scale item 4 (1-5),integer,2580,1324,51.32,5,1,5,1; 4; 3; 2; 5
+BES_5,Binge Eating Scale item 5 (1-5),integer,2580,1324,51.32,5,1,5,5; 1; 2; 3; 4
+BES_6,Binge Eating Scale item 6 (1-5),integer,2580,1324,51.32,5,1,5,1; 3; 2; 4; 5
+PerceivedStress_1,Perceived Stress item 1 (1-4),integer,2580,638,24.73,3,1,4,3; 4; 1
+PerceivedStress_2,Perceived Stress item 2 (1-4),integer,2580,619,23.99,3,1,4,4; 3; 1
+responded,Response indicator (always 1),integer,2580,0,0,1,1,1,1

@@ -1,0 +1,148 @@
+variable,class,n_obs,n_missing,pct_missing,n_unique,example_values
+Informazioni cronologiche,"POSIXct, POSIXt",28,0,0,28,2023-09-27 12:35:34.806; 2023-09-27 15:01:39.325; 2023-09-27 15:05:58.304
+quest_id_raw,character,28,0,0,28,gi_gi_1984_11_10_751_m; do_vi_1994_03_30_254_m; fi_ca_1993_07_05_863_m
+Sesso,character,28,0,0,1,Maschio
+Hai 18 anni o più?,character,28,0,0,1,Si
+1,character,28,0,0,3,"1. Non mi sento in imbarazzo per il mio peso o per le dimensioni del mio corpo quando sono con gli altri.; 2. Mi preoccupo di come appaio agli altri, ma di solito questo non mi fa sentire deluso da me stesso; 3. Mi sento in imbarazzo per il mio aspetto e il mio peso, il che mi fa sentire deluso da me stesso."
+2,character,28,0,0,4,"3. A volte tendo a mangiare velocemente e poi mi sento fastidiosamente pieno.; 4. Ho l'abitudine di buttare giù il cibo, senza masticarlo veramente. Quando questo accade di solito, mi sento fastidiosamente pieno perché ho mangiato troppo.; 2. Anche se mi sembra di ""ingurgitare"" i cibi, non finisco per sentirmi sazio per aver mangiato troppo."
+3,character,28,0,0,3,Sento di non essere riuscito a controllare la mia alimentazione più della media delle persone.; Mi sento in grado di controllare i miei impulsi alimentari quando voglio.; Mi sento del tutto impotente quando si tratta di controllare i miei impulsi alimentari.
+4,character,28,0,0,3,"A volte mangio quando mi annoio, ma spesso riesco a ""darmi da fare"" e a distrarmi dal cibo.; Ho l'abitudine di mangiare quando sono annoiato, ma di tanto in tanto posso usare qualche altra attività per distogliere la mente dal cibo.; Non ho l'abitudine di mangiare quando sono annoiato."
+5,character,28,0,0,3,"Di tanto in tanto, mangio qualcosa d'impulso anche se non ho fame.; Ho l'abitudine di mangiare cibi, che potrebbero non piacermi per soddisfare una sensazione di fame anche se fisicamente non ne ho bisogno.; Di solito sono fisicamente affamato quando mangio qualcosa."
+6,character,28,0,0,2,"Non provo alcun senso di colpa o di odio verso me stesso dopo aver mangiato troppo.; Dopo aver mangiato troppo, a volte provo senso di colpa o odio per me stesso."
+7,character,28,0,0,3,"Non perdo il controllo totale del cibo quando sono a dieta anche dopo periodi di iperalimentazione.; Spesso ho l'abitudine di dire a me stesso: ""Ormai ho rovinato tutto, perché non andare fino in fondo?"" quando mangio troppo durante una dieta. Quando ciò accade, mangio ancora di più.; A volte, quando mangio un ""cibo proibito"" durante una dieta, mi sento come se avessi ""rovinato tutto"" e quando ciò accade  mangio ancora di più."
+8,character,28,0,0,3,"Raramente mangio così tanto cibo che dopo mi sento fastidiosamente pieno.; Ho periodi regolari durante il mese in cui mangio grandi quantità di cibo, durante i pasti o gli spuntini.; Di solito, circa una volta al mese, mangio una tale quantità di cibo che finisco per sentirmi molto sazio."
+9,character,28,0,0,3,"Il mio livello di assunzione di calorie non sale molto o scende molto in basso regolarmente.; A volte, dopo aver mangiato troppo, cerco di ridurre l'apporto calorico fino a ridurlo quasi a zero per compensare l'eccesso di calorie assunte.; Ho l'abitudine di mangiare troppo durante la notte. Sembra che la mia routine sia quella di non avere fame al mattino ma di mangiare troppo la sera."
+10,character,28,0,0,3,"Di solito riesco a smettere di mangiare quando voglio. Sapere ""quando è troppo è troppo"".; Di tanto in tanto, provo un impulso a mangiare che non riesco a controllare.; Spesso provo forti impulsi a mangiare che mi sembra di non riuscire a controllare, ma a volte riesco a controllare i miei impulsi alimentari."
+11,character,28,0,0,3,"Non ho alcun problema a smettere di mangiare quando mi sento sazio.; Di solito riesco a smettere di mangiare quando mi sento sazio, ma a volte mi capita di mangiare troppo e di sentirmi fastidiosamente pieno.; Ho problemi a smettere di mangiare, e una volta iniziato di solito mi sento fastidiosamente sazio dopo aver consumato un pasto."
+12,character,28,0,0,3,"Mi sembra di mangiare altrettanto quando sono con gli altri (famiglia, incontri sociali) come quando sono da solo.; A volte, quando sono con altre persone, non mangio quanto voglio perché sono cosciente del mio comportamento alimentare.; Spesso mangio solo una piccola quantità di cibo in presenza di altri, perché mi vergogno del mio modo di mangiare."
+13,character,28,0,0,4,"Mangio 3 pasti al giorno, ma di solito faccio anche uno spuntino tra un pasto e l'altro.; Quando faccio molti spuntini, ho l'abitudine di saltare i pasti regolari.; Mangio tre pasti al giorno e solo occasionalmente spuntino tra i pasti."
+14,character,28,0,0,2,"Non penso molto al tentativo di controllare impulsi alimentari indesiderati.; Almeno per una parte del tempo, sento che i miei pensieri sono occupati dal tentativo di controllare i miei impulsi alimentari."
+15,character,28,0,0,2,"Non penso molto al cibo.; Ho forti voglie di cibo, ma durano solo per brevi periodi di tempo."
+16,character,28,0,0,3,"Di solito so se sono fisicamente affamato o no. Prendo la giusta porzione di cibo che mi soddisfa.; A volte mi capita di non sapere se ho fisicamente fame o meno. In questi momenti è difficile sapere quanto cibo dovrei assumere per soddisfarmi.; Anche se posso sapere quante calorie dovrei mangiare, non ho idea di quale sia la quantità di cibo ""normale"" per me."
+"Indica la tua Nazionalità (es. Italiana, Statunitense, ecc.)",character,28,0,0,5,"Italiana; ITALIA; Italiana, Statunitense"
+Data di nascita,"POSIXct, POSIXt",28,0,0,28,1984-11-10; 1994-03-30; 1993-07-05
+Età (anni),numeric,28,0,0,14,38; 29; 30
+Quale di questi importi descrive meglio (approssimativamente) il tuo reddito personale dell'anno scorso?,character,28,0,0,4,Sotto 18.00 euro; Preferisco non rispondere; 18.000 - 37.000 euro
+Altezza (cm),character,28,0,0,18,178.0; 175.0; 184.0
+Peso (kg),numeric,28,0,0,17,84; 70; 95
+In quale genere ti identifichi?,character,28,0,0,1,Maschio
+"Se hai scelto ""Preferisco autodescrivermi"", fornisci di seguito la descrizione",logical,28,28,100,0,
+In quale orientamento sessuale ti identifichi?,character,28,0,0,5,Eterosessuale; Gay; Preferisco non rispondere
+Seleziona l'affermazione che ti descrive meglio:,character,28,0,0,2,Non sto seguendo un programma di gestione del peso.; Sto seguendo un programma di gestione del peso (es. scheda personal trainer; dieta prescritta da professionista; ecc).
+"Se stai seguendo un programma di gestione del peso, quanto ti ritieni soddisfatto?",character,28,0,0,3,Soddisfatto; Non sto seguendo un programma di gestione del peso; Né insoddisfatto né soddisfatto
+Attualmente stai incontrando un health coach (es. personal trainer; life coach; ecc.) per un appuntamento al mese o più?,character,28,0,0,2,Si; No
+"Seleziona l'affermazione che meglio riflette il tuo peso nell' ultimo anno (Se non si è sicuri della propria percentuale di perdita di peso, tirare a indovinare)",character,28,0,0,3,Nell'ultimo anno ho perso tra lo 0 e il 4% del mio peso corporeo iniziale; Non ho perso peso nell'ultimo anno; Nell'ultimo anno ho perso il 5-10% del mio peso corporeo iniziale
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un genitore o un altro adulto della tua famiglia ha spesso o molto spesso imprecato contro di te, ti ha insultato, denigrato o umiliato?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un genitore o un altro adulto della tua famiglia si è spesso comportato in un modo che ti ha fatto temere di essere ferito fisicamente?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un genitore o un altro adulto della tua famiglia ti ha spesso o molto spesso spinto, afferrato, schiaffeggiato o tirato qualcosa addosso?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un genitore o un altro adulto della tua famiglia ti ha spesso o molto spesso colpito così forte da lasciarti segni o lesioni?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un adulto o una persona di cinque anni più grande di te ti ha mai toccato/a, accarezzato/a o ha voluto che tu toccassi sessualmente il suo corpo? ]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un adulto o una persona di cinque anni più grande di te ha mai tentato di avere un rapporto orale, vaginale o anale con te?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Hai spesso o molto spesso avuto la sensazione che nessuno della tua famiglia ti abbia amato o ti consideri speciale o importante?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Hai spesso o molto spesso avuto la sensazione che membri della tua famiglia non si prestino attenzione l’un l’altro, non si sentano vicini gli uni agli altri o non si sostengano a vicenda?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Hai spesso o molto spesso avuto la sensazione che non avevi abbastanza da mangiare, hai dovuto indossare dei vestiti sporchi o non avevi nessuno che ti proteggesse?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Hai spesso o molto spesso avuto la sensazione che i tuoi genitori fossero troppo ubriachi o drogati per prendersi cura di te o per portarti da un medico quando ne avevi bisogno?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [I tuoi genitori si sono separati o hanno divorziato?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Tua madre (o la tua matrigna) è stata spesso o molto spesso spinta, stretta, schiaffeggiata o le è stato tirato qualcosa addosso?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Tua madre (o la tua matrigna) è stata spesso o molto spesso presa a calci, morsi, è stata colpita con un pugno o con qualcosa di duro?]",character,28,0,0,1,No
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Tua madre (o la tua matrigna) è stata ripetutamente colpita per almeno un paio di minuti o minacciata con una pistola o un coltello?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Hai vissuto con qualcuno che aveva problemi con l’alcol, era un alcolista o faceva uso di droghe?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un membro della tua famiglia era depresso, presentava patologie psichiatriche o ha tentato il suicidio?]",character,28,0,0,2,No; Si
+"Durante la tua crescita, nei tuoi primi 18 anni di vita: [Un membro della tua famiglia è stato in prigione?]",character,28,0,0,2,No; Si
+Vorrei essere più muscoloso.,numeric,28,0,0,4,4; 5; 3
+Sollevo pesi per aumentare i muscoli.,numeric,28,0,0,5,4; 5; 3
+Uso integratori proteici o energetici.,numeric,28,0,0,4,4; 5; 1
+Bevo frullati per l'aumento di peso o proteici.,numeric,28,0,0,4,1; 2; 3
+Cerco di consumare quante più calorie possibili in un giorno.,numeric,28,0,0,6,2; 5; 3
+Mi sento in colpa se salto una sessione di allenamento con i pesi.,numeric,28,0,0,5,2; 5; 1
+Penso che mi sentirei più sicuro di me se avessi più massa muscolare.,numeric,28,0,0,6,2; 6; 5
+Altre persone pensano che mi alleni con i pesi troppo spesso.,numeric,28,0,0,4,1; 4; 2
+Penso che sarei più attraente se guadagnassi 10 chili di massa.,numeric,28,0,0,6,1; 5; 4
+Penso di assumere steroidi anabolizzanti.,numeric,28,0,0,3,1; 2; 5
+Penso che mi sentirei più forte se guadagnassi un pò più massa muscolare.,numeric,28,0,0,6,1; 4; 5
+Penso che il mio programma di allenamento con i pesi interferisca con altri aspetti della mia vita.,numeric,28,0,0,4,1; 4; 3
+Penso che le mie braccia non siano abbastanza muscolose.,numeric,28,0,0,6,1; 4; 3
+Penso che il mio petto non sia abbastanza muscoloso.,numeric,28,0,0,6,1; 5; 4
+Penso che le mie gambe non siano abbastanza muscolose.,numeric,28,0,0,6,4; 5; 2
+"Quando fallisco in qualcosa di importante per me vengo
+invaso da sentimenti di inadeguatezza.",numeric,28,0,0,4,2; 5; 3
+"Cerco di essere comprensivo e paziente verso quegli aspetti
+della mia personalità che non mi piacciono",numeric,28,0,0,5,2; 1; 3
+"Quando succede qualcosa di doloroso cerco di avere una
+posizione equilibrata.",numeric,28,0,0,4,4; 2; 3
+"Quando mi sento giù tendo a pensare che la maggior parte
+delle altre persone è più felice di me.",numeric,28,0,0,5,4; 3; 2
+"Cerco di vedere i miei fallimenti come un aspetto inevitabile
+nella mia condizione di essere umano.",numeric,28,0,0,5,5; 1; 2
+"Quando attraverso un momento difficile cerco di darmi la
+tenerezza e la cura di cui ho bisogno.",numeric,28,0,0,5,5; 1; 3
+"Quando qualcosa mi sconvolge cerco di tenere le mie
+emozioni in equilibrio",numeric,28,0,0,5,5; 2; 3
+"Quando fallisco in qualcosa di importante per me tendo a
+sentirmi solo nel mio fallimento.",numeric,28,0,0,5,3; 5; 2
+"Quando mi sento giù tendo a diventare ossessionato dall'idea
+che niente va bene.",numeric,28,0,0,4,3; 5; 2
+"Quando mi sento inadeguato tendo a ricordarmi che la
+sensazione di inadeguatezza è condivisibile con la maggior
+parte delle persone.",numeric,28,0,0,4,3; 4; 2
+"Sono disapprovante e giudicante nei confronti delle mie
+debolezze e inadeguatezze.",numeric,28,0,0,4,3; 5; 4
+"Sono intollerante e impaziente verso quegli aspetti della mia
+personalità che non mi piacciono.",numeric,28,0,0,5,1; 4; 3
+Addormentarsi,character,28,0,0,4,"Non impiego mai più di 30 minuti per addormentarmi.; Impiego almeno 30 minuti per addormentarmi, meno della metà delle volte.; Impiego più di 60 minuti per addormentarmi, più della metà delle volte."
+Sonno notturno,character,28,0,0,4,"Non mi sveglio di notte.; Ho un sonno inquieto e leggero, con qualche breve risveglio ogni notte.; Mi sveglio almeno una volta per notte, ma mi riaddormento facilmente."
+Svegliarsi troppo presto,character,28,0,0,4,"La maggior parte delle volte mi sveglio non più di 30  minuti prima di dovermi alzare.; Più della metà delle volte mi sveglio più di 30 minuti prima di dovermi alzare.; Mi sveglio quasi sempre almeno un'ora prima del necessario, ma alla fine mi riaddormento."
+Dormire troppo,character,28,0,0,3,"Non dormo più di 12 ore in un periodo di 24 ore , compresi i sonnellini.; Dormo non più di 7-8 ore a notte, senza sonnecchiare durante il giorno.; Non dormo più di 10 ore in un periodo di 24 ore , compresi i sonnellini."
+Sentimento di tristezza,character,28,0,0,4,Mi sento triste meno della metà del tempo.; Mi sento triste quasi sempre.; Mi sento triste più della metà del tempo.
+Diminuzione dell'appetito abituale,character,28,0,0,3,Non c'è alcun cambiamento rispetto al mio appetito abituale.; Mangio un po' meno spesso o una quantità di cibo inferiore al solito.; Mangio molto meno del solito e solo con uno sforzo personale.
+Aumento dell'appetito abituale,character,28,0,0,4,Non ci sono cambiamenti rispetto al mio appetito; Sento il bisogno di mangiare più spesso del solito.; Mi capita regolarmente di mangiare più spesso e/o in quantità maggiori del solito.
+Diminuzione di peso (solo per questa sentenza considera le ultime due settimane),character,28,0,0,4,"Non ho avuto variazioni di peso.; Non si applica a me poiché il peso è aumentato, specifico nella domanda successiva.; Ho perso 2 o più chili."
+Aumento di peso (solo per questa sentenza considera le ultime due settimane),character,28,0,0,4,"Sento di aver avuto un leggero aumento di peso.; Ho preso 2 o più chili.; Non si applica a me poiché il peso è diminuito, specifico nella domanda precedente."
+Concentrazione/Decisione,character,28,0,0,4,Non ci sono cambiamenti nella mia abituale capacità di concentrarmi o di prendere decisioni.; Non riesco a concentrarmi a sufficienza per leggere o non riesco a prendere nemmeno piccole decisioni.; A volte mi sento indeciso o trovo che la mia attenzione vaghi.
+Visione di me stesso.,character,28,0,0,3,Sono più autocritico del solito.; Penso quasi costantemente ai miei difetti maggiori e minori.; Mi considero altrettanto valido e meritevole di altre persone.
+Pensieri di morte o suicidio.,character,28,0,0,3,Non penso al suicidio o alla morte.; Sento che la vita è vuota o mi chiedo se valga la pena viverla.; Penso al suicidio o alla morte diverse volte alla settimana per alcuni minuti.
+Interesse generale,character,28,0,0,2,Non ci sono cambiamenti rispetto al solito nell'interesse per le altre persone o attività.; Si nota che sono meno interessato alle persone o alle attività.
+Livello di energia,character,28,0,0,3,"Non c'è alcun cambiamento nel mio livello abituale di energia.; Devo fare un grande sforzo per iniziare o finire le mie solite attività quotidiane (per esempio, fare la spesa, i compiti, cucinare o andare al lavoro); Si stanca più facilmente del solito."
+Sensazione di rallentamento,character,28,0,0,2,"Penso, parlo e mi muovo alla mia solita velocità.; Si nota che il mio pensiero è rallentato o che la mia voce è monotona o piatta."
+Sensazione di irrequietezza,character,28,0,0,4,"A volte non riesco a stare seduto e ho bisogno di camminare.; Sono spesso agitato, mi attorciglio le mani o ho bisogno di spostare il mio modo di stare seduto.; Ho impulsi a muovermi e sono piuttosto irrequieto."
+Mi sento bene,character,28,0,0,4,Qualche volta; Quasi mai; Spesso
+Mi sento teso e irrequieto,character,28,0,0,4,Qualche volta; Quasi sempre; Spesso
+Mi sento soddisfatto di me stesso,character,28,0,0,3,Qualche volta; Quasi mai; Spesso
+Vorrei essere felice come sembrano esserlo gli altri,character,28,0,0,3,Qualche volta; Spesso; Quasi mai
+Mi sento un fallito,character,28,0,0,4,Quasi mai; Quasi sempre; Spesso
+Mi sento riposato,character,28,0,0,4,Qualche volta; Quasi mai; Spesso
+"Sono calmo, tranquillo e padrone di me",character,28,0,0,4,Qualche volta; Quasi mai; Spesso
+Sento che le difficoltà si accumulano tanto da non poterle superare,character,28,0,0,4,Quasi mai; Spesso; Qualche volta
+Mi preoccupo troppo per qualcosa che in realtà non ha importanza,character,28,0,0,3,Qualche volta; Spesso; Quasi mai
+Sono felice,character,28,0,0,4,Qualche volta; Quasi mai; Spesso
+Ho pensieri inquietanti,character,28,0,0,3,Quasi mai; Qualche volta; Spesso
+Mi manca la fiducia in me stesso,character,28,0,0,4,Quasi mai; Quasi sempre; Qualche volta
+Mi sento sicuro,character,28,0,0,4,Qualche volta; Quasi mai; Spesso
+Prendo decisioni facilmente,character,28,0,0,4,Spesso; Quasi mai; Qualche volta
+Mi sento inadeguato,character,28,0,0,4,Quasi mai; Quasi sempre; Qualche volta
+Sono contento,character,28,0,0,4,Qualche volta; Spesso; Quasi mai
+Pensieri di scarsa importanza mi passano per la mente e mi infastidiscono,character,28,0,0,3,Quasi mai; Spesso; Qualche volta
+Vivo le delusioni con tanta partecipazione da non poter togliermele dalla testa,character,28,0,0,4,Quasi mai; Quasi sempre; Qualche volta
+Sono una persona costante,character,28,0,0,4,Spesso; Quasi mai; Qualche volta
+Divento teso e turbato quando penso alle mie attuali preoccupazioni,character,28,0,0,4,Qualche volta; Quasi sempre; Quasi mai
+Negli ultimi 3 mesi ti sei sentito grasso?,character,28,0,0,5,2- Leggermente; 1.0; 5.0
+Negli ultimi 3 mesi hai mai avuto il timore di poter ingrassare?,character,28,0,0,6,4- Moderatamente; 3.0; 0- Per niente
+Negli ultimi 3 mesi il tuo peso ha influenzato il tuo modo di pensare?,character,28,0,0,6,0- Per niente; 1.0; 5.0
+Negli ultimi 3 mesi la forma del tuo corpo ha influenzato il tuo modo di pensare?,character,28,0,0,6,0- Per niente; 2- Leggermente; 4- Moderatamente
+"Negli ultimi 6 MESI ci sono stati dei momenti in cui hai sentito di aver mangiato quello che altre persone considererebbero una quantità insolitamente grande di cibo (ad esempio, un quarto di gelato), date le circostanze?",character,28,0,0,2,No; Si
+"Negli ultimi 6 MESI durante il periodo in cui hai mangiato una quantità insolitamente elevata di cibo, hai sperimentato una perdita di controllo (sensazione di non riuscire a smettere di mangiare o a controllare cosa o quanto mangiare)?",character,28,0,0,2,No; Si
+"Quanti giorni alla settimana, in media, negli ultimi 6 MESI hai mangiato una quantità insolitamente grande di cibo e hai sperimentato una perdita di controllo?",numeric,28,0,0,6,1; 2; 7
+"Quante volte alla settimana, in media, negli ultimi 3 MESI hai mangiato una quantità insolitamente grande di cibo e hai sperimentato una perdita di controllo?",numeric,28,0,0,7,0; 2; 10
+Durante questi episodi di sovralimentazione e di perdita di controllo hai mangiato molto più rapidamente del normale?,character,28,0,0,2,No; Si
+Durante questi episodi di sovralimentazione e di perdita di controllo hai mangiato fino a sentirti fastidiosamente pieno?,character,28,0,0,2,No; Si
+Durante questi episodi di sovralimentazione e di perdita di controllo hai mangiato grandi quantità di cibo quando non ci si sentiva fisicamente affamati?,character,28,0,0,2,No; Si
+Durante questi episodi di sovralimentazione e di perdita di controllo hai mangiato da solo perché ti sentivi in imbarazzo per quanto stavi mangiando?,character,28,0,0,2,No; Si
+"Durante questi episodi di sovralimentazione e di perdita di controllo ti senti disgustato da te stesso, depresso o con sensi di colpa dopo aver mangiato troppo?",character,28,0,0,2,No; Si
+"Durante questi episodi di sovralimentazione e di perdita di controllo
+ ti senti molto turbato per la tua incontrollabile sovralimentazione o il conseguente aumento di peso?",character,28,0,0,2,No; Si
+Quante volte alla settimana in media negli ultimi 3 mesi ti sei sentito costretto a vomitare per evitare  l'aumento di peso o contrastare gli effetti dell'alimentazione?,numeric,28,0,0,4,0; 2; 4
+Quante volte alla settimana in media negli ultimi 3 mesi hai fatto uso di lassativi o diuretici per evitare l'aumento di peso o contrastare gli effetti dell'alimentazione?,numeric,28,0,0,4,0; 4; 6
+Quante volte alla settimana in media negli ultimi 3 mesi hai digiunato (saltando almeno 2 pasti di fila) per prevenire l'aumento di peso o contrastarne gli effetti dell'assunzione di cibo?,numeric,28,0,0,5,0; 5; 2
+"Quante volte alla settimana in media negli ultimi 3 mesi hai praticato un'attività fisica eccessiva specificamente per contrastare gli effetti degli episodi di sovralimentazione?
+",numeric,28,0,0,5,0; 1; 2
+quest_id_normalized,character,28,0,0,28,gi_gi_1984_11_10_751_m; do_vi_1994_03_30_254_m; fi_ca_1993_07_05_863_m

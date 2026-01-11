@@ -1,0 +1,31 @@
+variable,var_label,value_labels,class,n_obs,n_missing,pct_missing,n_unique,min,max
+group,NA,NA,factor,2475,0,0,1,NA,NA
+user_id,NA,NA,character,2475,0,0,85,NA,NA
+by_subj_day,NA,NA,integer,2475,349,14.1,7,1,7
+beep,NA,NA,integer,2475,0,0,5,1,5
+time_band,NA,NA,factor,2475,0,0,5,NA,NA
+SC_1,EMA assessed self-compassion item 1,NA,numeric,2475,367,14.83,5,1,5
+SC_2,EMA assessed self-compassion item 2,NA,numeric,2475,368,14.87,5,1,5
+SC_3,EMA assessed self-compassion item 3,NA,numeric,2475,372,15.03,5,1,5
+SC_4,EMA assessed self-compassion item 4,NA,numeric,2475,375,15.15,5,1,5
+SC_5,EMA assessed self-compassion item 5,NA,numeric,2475,376,15.19,5,1,5
+SC_6,EMA assessed self-compassion item 6,NA,numeric,2475,379,15.31,5,1,5
+SC_2R,EMA assessed self-compassion REVERSED SCORED item 1,NA,numeric,2475,368,14.87,5,1,5
+SC_4R,EMA assessed self-compassion REVERSED SCORED item 4,NA,numeric,2475,375,15.15,5,1,5
+SC_6R,EMA assessed self-compassion REVERSED SCORED item 6,NA,numeric,2475,379,15.31,5,1,5
+WBIS_1,Weight Bias Internalization Item 1,NA,numeric,2475,382,15.43,7,1,7
+WBIS_2,NA,NA,numeric,2475,382,15.43,7,1,7
+WBIS_3,Weight Bias Internalization Item 3,NA,numeric,2475,382,15.43,7,1,7
+affect_Frustrat_Ang,"1- not at all, 2- a little, 3- quite a bit, 4-extremely",NA,numeric,2475,382,15.43,4,1,4
+affect_Sad_Depressed,"1- not at all, 2- a little, 3- quite a bit, 4-extremely",NA,numeric,2475,382,15.43,4,1,4
+affect_stress,"1- not at all, 2- a little, 3- quite a bit, 4-extremely",NA,numeric,2475,382,15.43,4,1,4
+Did_you_eat,"Did you eat in the past two hours? IF no, they did not see BES_1 through BES_6",NA,integer,2475,382,15.43,2,0,1
+BES_1,"Overate: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+BES_2,"Ate excessive amount of food: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+BES_3,"Loss of control: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+BES_4,"could not resist eating: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+BES_5,"could not stop eating once started: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+BES_6,"feel driven or compelled to eat: 1- not at all, 2, 3, 4, 5- extremely",NA,numeric,2475,1209,48.85,5,1,5
+PerceivedStress_1,"""1- Not at all 2- A little 3- Quite a bit 4- Extremely""",NA,numeric,2475,383,15.47,4,1,4
+PerceivedStress_2,"""1- Not at all 2- A little 3- Quite a bit 4- Extremely""",NA,numeric,2475,384,15.52,4,1,4
+responded,NA,NA,integer,2475,0,0,1,1,1
